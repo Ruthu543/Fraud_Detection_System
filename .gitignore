@@ -1,0 +1,24 @@
+@"
+# Virtual environments
+venv/
+.venv/
+.venv_streamlit/
+
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store
+"@ | Set-Content .gitignore
