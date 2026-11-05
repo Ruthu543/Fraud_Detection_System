@@ -125,10 +125,12 @@ The project includes an interactive Streamlit application that allows users to e
 actual Streamlit screenshots here:
 
 **1. Application Dashboard**
+
+
 <img width="1894" height="795" alt="image" src="https://github.com/user-attachments/assets/44c1e1bf-b8f2-46a4-b713-3a23729eb630" />
 
 
-`![Application Dashboard](screenshots/dashboard.png)`
+
 
 **2. Normal Transaction Prediction**
 
