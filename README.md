@@ -98,7 +98,6 @@ Accuracy alone is not sufficient for highly imbalanced datasets. Precision and r
 
 ### Model Performance Comparison
 
-Add your final **held-out test-set results** below after verifying them in your notebook.
 
 | Model | Accuracy | Precision | Recall | F1-score | PR-AUC |
 |---|---:|---:|---:|---:|---:|
