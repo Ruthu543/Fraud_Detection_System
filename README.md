@@ -122,7 +122,7 @@ The project includes an interactive Streamlit application that allows users to e
 
 ### Application Screenshots
 
-actual Streamlit screenshots here:
+Actual Streamlit screenshots here:
 
 **1. Application Dashboard**
 
@@ -134,11 +134,14 @@ actual Streamlit screenshots here:
 
 **2. Normal Transaction Prediction**
 
-`![Normal Transaction Prediction](screenshots/normal_prediction.png)`
+<img width="1732" height="766" alt="image" src="https://github.com/user-attachments/assets/df306cd4-2352-42f3-9436-ed1a7897c5d5" />
+
+
 
 **3. Fraudulent Transaction Prediction**
 
-`![Fraudulent Transaction Prediction](screenshots/fraud_prediction.png)`
+<img width="1861" height="790" alt="image" src="https://github.com/user-attachments/assets/30ddbc38-376d-4754-a575-ef585aaaee9f" />
+
 
 
 
