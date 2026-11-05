@@ -122,7 +122,7 @@ The project includes an interactive Streamlit application that allows users to e
 
 ### Application Screenshots
 
-Add your actual Streamlit screenshots here:
+actual Streamlit screenshots here:
 
 **1. Application Dashboard**
 
