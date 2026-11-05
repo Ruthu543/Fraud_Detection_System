@@ -105,7 +105,7 @@ Accuracy alone is not sufficient for highly imbalanced datasets. Precision and r
 | XGBoost | 99.98 % | 88.24% |81.08%	 | 84.51%	 | 83.40% |
 | Isolation Forest | 96.37 % | 23.00%	 | 24.00%	|23.53% | 12.75% |
 
-*Note: Use the same held-out test dataset for a fair comparison. Do not use validation metrics as final test results.*
+
 
 ## Streamlit Web Application
 
