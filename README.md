@@ -102,9 +102,9 @@ Add your final **held-out test-set results** below after verifying them in your 
 
 | Model | Accuracy | Precision | Recall | F1-score | PR-AUC |
 |---|---:|---:|---:|---:|---:|
-| Random Forest | To be added | To be added | To be added | To be added | To be added |
-| XGBoost | To be added | To be added | To be added | To be added | To be added |
-| Isolation Forest | To be added | To be added | To be added | To be added | To be added |
+| Random Forest |  100.0 % | To be added | To be added | To be added | To be added |
+| XGBoost | 99.98 % | To be added | To be added | To be added | To be added |
+| Isolation Forest | 96.37 % | To be added | To be added | To be added | To be added |
 
 *Note: Use the same held-out test dataset for a fair comparison. Do not use validation metrics as final test results.*
 
