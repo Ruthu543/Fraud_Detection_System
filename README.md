@@ -136,12 +136,12 @@ Add your actual Streamlit screenshots here:
 
 `![Fraudulent Transaction Prediction](screenshots/fraud_prediction.png)`
 
-Create a `screenshots/` folder and add your actual screenshots using these filenames.
+
 
 ## Project Structure
 
 ```text
-Fraud_Detection_System/
+Fraud-Detection-Using-Machine-Learning 
 │
 ├── dataset/
 │   └── creditcard.csv
@@ -177,13 +177,13 @@ git clone https://github.com/Ruthu543/Fraud_Detection_System.git
 ### 2. Navigate to the project directory
 
 ```bash
-cd Fraud_Detection_System
+cd Fraud-Detection-Using-Machine-Learning
 ```
 
 ### 3. Create a virtual environment
 
 ```bash
-python -m venv .venv
+python -m venv .venv_streamlit
 ```
 
 ### 4. Activate the environment
@@ -191,7 +191,7 @@ python -m venv .venv
 **Windows PowerShell:**
 
 ```powershell
-.venv\Scripts\Activate.ps1
+.venv_streamlit\Scripts\Activate.ps1
 ```
 
 ### 5. Install dependencies
